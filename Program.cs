@@ -1,11 +1,12 @@
 ﻿using System;
 
-namespace CartasianLength;
+namespace EmployeeMonthWage;
 
 class Program
 {
+
     public static void Main(string[] args)
     {
-        CartasianLength.CarLen();
+        EmployeePerMonthWage.EmpPerMonWag();
     }
 }
