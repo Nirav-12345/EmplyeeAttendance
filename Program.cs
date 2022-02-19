@@ -1,14 +1,11 @@
 ﻿using System;
 
-namespace EmplyeeWageCompute
-{
+namespace CartasianLength;
+
 class Program
-
 {
-    static void Main(string[] args)
-
+    public static void Main(string[] args)
     {
-        EmployeeWageCompute.EmpWageCal();
+        CartasianLength.CarLen();
     }
-}
 }
