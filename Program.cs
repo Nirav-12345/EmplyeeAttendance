@@ -1,12 +1,13 @@
 ﻿using System;
 
-namespace EmployeeMonthWage;
+namespace EmpHrPerMonth;
 
 class Program
+
 {
 
     public static void Main(string[] args)
     {
-        EmployeePerMonthWage.EmpPerMonWag();
+        EmpPerMont.EmpMonHr();
     }
 }
